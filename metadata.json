@@ -1,0 +1,5 @@
+{
+  "name": "CosmoThai Voyager",
+  "description": "An interactive educational space exploration web app where users pilot a rocket through the solar system to learn about planets using AI-generated insights in Thai.",
+  "requestFramePermissions": []
+}
